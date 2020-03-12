@@ -47,4 +47,3 @@ console.log(whiteHouse, sherlock);
 const { addresses: [ , { city: london }] } = person;
 console.log(london);
 // => London
-
